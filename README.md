@@ -1,4 +1,4 @@
-# Logistics-Sales-Delivery-Performance-Analytics
+# End-to-End Sales & Customer Performance Analytics
 
 1. Giới thiệu dự án
 
